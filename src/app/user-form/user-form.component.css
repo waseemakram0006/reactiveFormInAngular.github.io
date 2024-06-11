@@ -1,0 +1,17 @@
+.full-width {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  
+  mat-card {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    display: block;
+    margin: 0 auto;
+  }
+  
